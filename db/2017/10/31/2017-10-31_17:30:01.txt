@@ -1,0 +1,39 @@
+<html><head><title>JBWEB000065: HTTP Status 500 - java.lang.NullPointerException</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>JBWEB000065: HTTP Status 500 - java.lang.NullPointerException</h1><HR size="1" noshade="noshade"><p><b>JBWEB000309: type</b> JBWEB000066: Exception report</p><p><b>JBWEB000068: message</b> <u>java.lang.NullPointerException</u></p><p><b>JBWEB000069: description</b> <u>JBWEB000145: The server encountered an internal error that prevented it from fulfilling this request.</u></p><p><b>JBWEB000070: exception</b> <pre>org.jboss.resteasy.spi.UnhandledException: java.lang.NullPointerException
+	org.jboss.resteasy.core.SynchronousDispatcher.handleApplicationException(SynchronousDispatcher.java:369)
+	org.jboss.resteasy.core.SynchronousDispatcher.handleException(SynchronousDispatcher.java:237)
+	org.jboss.resteasy.core.SynchronousDispatcher.handleInvokerException(SynchronousDispatcher.java:213)
+	org.jboss.resteasy.core.SynchronousDispatcher.getResponse(SynchronousDispatcher.java:598)
+	org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:565)
+	org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:130)
+	org.jboss.resteasy.plugins.server.servlet.ServletContainerDispatcher.service(ServletContainerDispatcher.java:208)
+	org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:55)
+	org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:50)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:847)
+	gov.nist.rabin.web.filter.ResourceFilter.doFilter(ResourceFilter.java:37)
+	gov.nist.servlet.filters.AddCustomHeaderFilter.doFilter(AddCustomHeaderFilter.java:52)
+</pre></p><p><b>JBWEB000071: root cause</b> <pre>java.lang.NullPointerException
+	gov.nist.rabin.web.rest.RecordService.retrieveRecord(RecordService.java:87)
+	gov.nist.rabin.web.rest.RecordService.getLastRecord(RecordService.java:61)
+	sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:498)
+	org.jboss.resteasy.core.MethodInjectorImpl.invoke(MethodInjectorImpl.java:168)
+	org.jboss.resteasy.core.ResourceMethod.invokeOnTarget(ResourceMethod.java:269)
+	org.jboss.resteasy.core.ResourceMethod.invoke(ResourceMethod.java:227)
+	org.jboss.resteasy.core.ResourceMethod.invoke(ResourceMethod.java:216)
+	org.jboss.resteasy.core.SynchronousDispatcher.getResponse(SynchronousDispatcher.java:583)
+	org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:565)
+	org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:130)
+	org.jboss.resteasy.plugins.server.servlet.ServletContainerDispatcher.service(ServletContainerDispatcher.java:208)
+	org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:55)
+	org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:50)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:847)
+	gov.nist.rabin.web.filter.ResourceFilter.doFilter(ResourceFilter.java:37)
+	gov.nist.servlet.filters.AddCustomHeaderFilter.doFilter(AddCustomHeaderFilter.java:52)
+</pre></p><HR size="1" noshade="noshade"></body></html>
+  "name": "LTC.main",
+  "height": 1304953,
+  "hash": "de65c02df1b97b962c38943381774a993af7279a1cd00cff16c80013333dabcf",
+  "name": "ETH.main",
+  "height": 4465306,
+  "hash": "b78d0fa7cb816d2bf3e322cc88530851e0375ce5d6243c6d4cf64e3be8c81ee1",

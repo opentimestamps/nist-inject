@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Service Unavailable</h2>
+<hr><p>HTTP Error 503. The service is unavailable.</p>
+</BODY></HTML>
+
+  "name": "LTC.main",
+  "height": 1454630,
+  "hash": "4afe44378f86c08168116fa510bc9e2f610fa2c865db23811512a859e578a845",
+  "name": "ETH.main",
+  "height": 5943589,
+  "hash": "7d61d16789862320442cea767167448e8915adc6c7981afd89290c6bd3c78de9",

@@ -1,0 +1,7 @@
+Bad Request
+  "name": "LTC.main",
+  "height": 1450169,
+  "hash": "4ba614dac13953626bd8a0c50212af4eff8fb1fa01662d095bd61594dcb5a154",
+  "name": "ETH.main",
+  "height": 5899881,
+  "hash": "552e6554b13d23abcc262a011683d66763872fd82b5723bb2981a5d80834535e",

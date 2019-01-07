@@ -1,0 +1,8 @@
+<html><head><title>Web Services</title></head><body><h2>NVD Web Services Endpoint</h2><h3>0.3</h3>Available at: TBD<ul><li>Initial public draft</li></ul></body></html>
+
+  "name": "LTC.main",
+  "height": 1461656,
+  "hash": "8f7d7bd575596a4429de237f18578a9697f81613a908ba220412732800a98fc8",
+  "name": "ETH.main",
+  "height": 6017530,
+  "hash": "66e078a61eb32231f542f88e30e0f27917c910dd0d1dc7d37a64025a49893f8f",
