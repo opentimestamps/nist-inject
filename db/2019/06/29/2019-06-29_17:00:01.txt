@@ -1,0 +1,8 @@
+
+  "name": "LTC.main",
+  "height": 1658806,
+  "hash": "9ee065f0fb6f91fcbc4cbd72bdd6a4d46f512b8293017612d21ad7e709eae417",
+  "name": "ETH.main",
+  "height": 8053981,
+  "hash": "fc16ce4ce8463f91ed11fd1ca0ba2b956b7b1998acd538009090eae530ddf8fc",
+    "blockHash": "00000000012c36cbe737e422a37974e9b8110156b33a63f831b0b2ac15beb83b",
