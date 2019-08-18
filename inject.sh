@@ -10,7 +10,7 @@ echo >> db/$FILE
 curl https://api.blockcypher.com/v1/ltc/main | egrep '"(hash|height|name)"' >> db/$FILE
 curl https://api.blockcypher.com/v1/eth/main | egrep '"(hash|height|name)"' >> db/$FILE
 curl https://api.zcha.in/v2/mainnet/network | python -m json.tool |grep blockHash >> db/$FILE
-~/src/ots/opentimestamps-client/ots stamp db/$FILE
+ots stamp db/$FILE
 
 git add -A db/
 git commit -m .
