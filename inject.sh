@@ -10,6 +10,7 @@ echo >> db/$FILE
 curl https://api.blockcypher.com/v1/ltc/main | egrep '"(hash|height|name)"' >> db/$FILE
 curl https://api.blockcypher.com/v1/eth/main | egrep '"(hash|height|name)"' >> db/$FILE
 curl https://api.zcha.in/v2/mainnet/network | python -m json.tool |grep blockHash >> db/$FILE
+(curl https://blockstream.info/liquid/api/blocks/tip/hash && echo -n ' ' && curl https://blockstream.info/liquid/api/blocks/tip/height && echo ) >> db/$FILE
 /usr/local/bin/ots stamp db/$FILE
 
 git add -A db/
