@@ -1,0 +1,73 @@
+{
+  "pulse" : {
+    "uri" : "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1617767",
+    "version" : "Version 2.0",
+    "cipherSuite" : 0,
+    "period" : 60000,
+    "certificateId" : "ebcfbf3cb148288266e2cde0d71de23b0a2739c30356e32de68e040b82dec384359763f72905ba16a2a474040ed5db47ee1baa0327aeae94f231ffe67276d1cb",
+    "chainIndex" : 1,
+    "pulseIndex" : 1617767,
+    "timeStamp" : "2021-11-16T17:49:00.000Z",
+    "localRandomValue" : "AC397CB6AC658BE58E2E62C9CBEB1B900AB49DB31C49E4AA3E22F73B672218F1E6BF4C7D903F1E2D52732B3CE15209705D41E137893676F6EF72A569DBAFD7ED",
+    "external" : {
+      "sourceId" : "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "statusCode" : 0,
+      "value" : "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "listValues" : [ {
+      "uri" : "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1617766",
+      "type" : "previous",
+      "value" : "3D28BD73CF6F534704DBB0218AD43C4ADC9B830EC1CB0FB934FC71CB45D0C913C3A3056764B7677189596D6A974B1672DE6BC9B91AB70EBEDE1228EF2C295BBC"
+    }, {
+      "uri" : "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1617718",
+      "type" : "hour",
+      "value" : "9B7301545FC9E4BC58F528CBEC65EF70D2061FFD61ECFAA365CFA9EE6741D9BFBF802761A8352CE57E2DD6D4C04F76BC6C866864A967BBF39055A3B06B38033A"
+    }, {
+      "uri" : "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1616698",
+      "type" : "day",
+      "value" : "C5A1EE3DFAD52B6E83F04B1B6E72E80816322CCF2D4CBBAA4460810F17383FFCD8896D736BDE8988A1CBA2BCE8CFAF6BEC6436423244762E3FF00AD81A478464"
+    }, {
+      "uri" : "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1595098",
+      "type" : "month",
+      "value" : "79F20379CF15B63E7BEE5231F9E96DD82741094EC3777437AC1274833EB6E7DEC54B36AE64D44FBF41352CB95EA295A1FB1A0268333F610EB6B320A28293F88E"
+    }, {
+      "uri" : "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1191050",
+      "type" : "year",
+      "value" : "4381C934F9E7EB815B3370AC703BABE45E7E0C694E1E760AE2911C474D673FA1CBB6E389183DCBD06331DCEB12753B92D82955766A18787DC738E28599179B8B"
+    } ],
+    "precommitmentValue" : "F5B50E74C89B9FBDE103F539CC3188C12607D23B935992A4BA5F272D5B4B902B7A7002B34FB7460E1ADA9F859A1152903042B02602644DFD012ED6352DC67EB0",
+    "statusCode" : 0,
+    "signatureValue" : "93B839E9659E55DC67EC6E6FDA7728071C34FB7CF35AE778A4AA3EB3566509349DD5682539FC8E178466203EF22D797441065D4533DB0E5EB8024D6F9F2A57902A1E033B429A9A01CD09CA3B6F17074FE56498FB0F169F6528E4FB772581DEBC1A30CDC2B575B4B30CB79BC8254432BE4DFD6EC6FB6D105FD9C435E48D91037FCCD419775AE6BBE2BA62F62604E38256A7080D050AD022B57F690C5EAC67B513A7014FACD03313E831F458DE890AF77B4F889C3770ACD0C14459BF84DB7FF3C89C9087811489E1BBA88E4E8474EC16C8C0698E8F3382D1FE7BBA8709241F83FF05E937BABE9FADB0F803CE2CD1B02B8797D6A09F2365005196D63525BC2A3D67E4FE109753EFB27350B531FF5618E225FE64CA0963D97DBCE9736C40C1C2758C265B4E31EE1C5B8AA0298FA8004F1F07C3294FDA22115B03289DA819166096D2D9F240C07227B57C1581F4A86647DBF5FD13B2FDB0766ED2DA8D43AC1EC72562E525164B63A2722F1BAB8759DD3D60299099BF7C737193321DD2E6C5FDA7E54477724F94D8FF818583111B9BFAF407A4ADAB8DA5036908833149CF4AB5B31E4700BB3D4D04322D6F615C88EF710544D8713269805175430FF5CD0922DE32AFAA66CFA365C37D106199FB4D473DFE907FEEF7B895DDF259A69F5BD4AA47F7A3D1D5406AE4D763B445F6CBEBC5B177498CCF7C822E4111FEE5DE146C8273A4FEDE",
+    "outputValue" : "06BE39B97B9BC7045FB86F9CF7BE51F42729923BA45A44752BD781A539879A3B3D88364558226FBFAA70DD834EBF0FC35EC9C66856561694ADEBF55179F0BEC5"
+  }
+}
+  "name": "LTC.main",
+  "height": 2159153,
+  "hash": "16d385125b15a4f9badfe4f9a2dcd09be1f1159dbba53d4d42c7fd3ecd6ffe25",
+  "name": "ETH.main",
+  "height": 13628012,
+  "hash": "17a1c90979527001cbdac0a98e8972f674b26cff85c776977e8d07f541072bf6",
+    "blockHash": "0000000000040a43af5cc385436508dd7927277c495745456025d588ac4253ec",
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/liquid/api/blocks/tip/hash</code> was not found on this server.  <ins>That’s all we know.</ins>
+ <!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/liquid/api/blocks/tip/height</code> was not found on this server.  <ins>That’s all we know.</ins>
+
