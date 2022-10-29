@@ -1,0 +1,9 @@
+Internal Database Error.
+  "name": "LTC.main",
+  "height": 2359535,
+  "hash": "5a55a7ebe30609d668790b5dc0cbeee1d5b44e840d271784936a90dc1bced3a8",
+  "name": "ETH.main",
+  "height": 15852770,
+  "hash": "3bd5db96424c4e9c763f65b98833b842e86a48e9429d5a6ff5a5a3bfafe5c26c",
+    "blockHash": "00000000013b71a7cf7ac164e0f1f9916729b9ffb4b0ed34c99b4465d0332c41",
+31831934b7b4169818499210f03768f4128a062449b629ff6ccb5d3bf0e8e7dd 2071588
