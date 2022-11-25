@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+  "name": "LTC.main",
+  "height": 2375255,
+  "hash": "74916d625f2f5f6a43fbe8399d81e24906cbd06170fd144577439b728cd2f2d9",
+  "name": "ETH.main",
+  "height": 16045581,
+  "hash": "b8c855f0999f0f55d54cda9007a4c9a981092f41cffe6cd6da9e19c6d9e1c791",
+    "blockHash": "0000000000d0eada65962510781a7c9efa2632a1d4bc07648dfd728a27b92501",
+e4e53dcb66b7c9c3e0874dd88c40f4e950b709da84b0e6e649473f1ff698d6e0 2110185
