@@ -9,6 +9,6 @@ timestamps that file. This serves two purposes:
 2. Injects a commitment to the beacons into the Bitcoin chain, proving that
    Bitcoin blocks were created after the beacons.
 
-In conjunction with the [restamp project](https://github.com/opentimestamps/restamp),
+In conjunction with the [Restamp Project](https://github.com/opentimestamps/restamp),
 this provides evidence that can constrain when Bitcoin blocks were created both
 forwards and backwards in time.
