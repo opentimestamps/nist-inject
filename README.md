@@ -1,6 +1,6 @@
 # Random Beacon Injector Bot
 
-This is a simple script/bot that every 10 minutes grabs the latest NIST random
+This is a simple script/bot that every few minutes grabs the latest NIST random
 beacon and a few blockhashes from various chains, concatenates them, and
 timestamps that file. This serves two purposes:
 
