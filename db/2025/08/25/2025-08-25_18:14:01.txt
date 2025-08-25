@@ -1,0 +1,8 @@
+error code: 524
+  "name": "LTC.main",
+  "height": 2956488,
+  "hash": "cedcbc85d669b929df0652c2b35862cf24edcaaa2d4fe4668552b87a58850104",
+  "name": "ETH.main",
+  "height": 23219851,
+  "hash": "0fe5f8710906289f281492e62e9960798ad8ab41af01b74ee8aac3c8e2da2f53",
+upstream connect error or disconnect/reset before headers. reset reason: connection timeout 3510661
