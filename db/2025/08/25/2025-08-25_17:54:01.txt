@@ -1,0 +1,5 @@
+error code: 524
+  "name": "ETH.main",
+  "height": 23219751,
+  "hash": "a986a066fa641d73f62562a989ba301a326250b0e595e9e3ebb1fb72b43f4121",
+c35720a6d9f6cb9b7fa4f79a4ce124f45b938522ce51e511d3f703ade4a99a7a 3510644
