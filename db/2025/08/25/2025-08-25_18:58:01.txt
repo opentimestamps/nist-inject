@@ -1,0 +1,5 @@
+error code: 524
+  "name": "LTC.main",
+  "height": 2956499,
+  "hash": "df3d81e47a47864a2ebd8527d323d3f9105759228353191cb04b41389a54d76d",
+329fcdf362ab22cb1f712b4674f7119cce71eaac978c24cdcad7212c55dbd831 3510699
