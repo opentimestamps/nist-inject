@@ -1,0 +1,8 @@
+error code: 520
+  "name": "LTC.main",
+  "height": 2978973,
+  "hash": "697f153dd5e250d6c5d71b1ca437306157315e84bd48ac02ce450522cce3f4df",
+  "name": "ETH.main",
+  "height": 23498374,
+  "hash": "6439f2e99c11fd3ecf35cbc6497b3fb5780317d83eb2684ffd20ae6f59e58993",
+4a962ef95cf534ce23ee10462f52ec74847e2c27cd780558c0b4e51b3d33adcd 3564982
