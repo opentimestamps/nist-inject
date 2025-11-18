@@ -1,0 +1,5 @@
+error code: 500
+  "name": "LTC.main",
+  "height": 3005671,
+  "hash": "1153f2c58a88bf50150254697bcb92fb39071c235a06ad582ed4f78daaa7bbe7",
+7c48a4ea6300166839a1f686306df8d18b2cfed8bf26e5be9fdc2cea1a4af800 3630966
