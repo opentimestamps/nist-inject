@@ -44,4 +44,4 @@
   "name": "ETH.main",
   "height": 23826679,
   "hash": "dc0d029b5be160aa24ace09a3361c9c183d26e9a709d1d1b753a5a04fa8060f6",
-cbe1fda88ef0ea245d342fc71ba5e8145c9ebad5e6c20bd91f268bdcdaee37c4 
+cbe1fda88ef0ea245d342fc71ba5e8145c9ebad5e6c20bd91f268bdcdaee37c4 upstream request timeout
