@@ -1,0 +1,8 @@
+error code: 500
+  "name": "LTC.main",
+  "height": 3005751,
+  "hash": "20cdf26294bfdcfe336313e2c9ee05d7f80df443f1bcb085c2c36a13a7bf0316",
+  "name": "ETH.main",
+  "height": 23826848,
+  "hash": "e23f0ce8ff97259ebf9ad28a1effd86b636954391447c6883bd0a1de88190762",
+417c66bf94e4743a209437fbfb3e0a2bebb12784d93958cfff09b4173af9fae2 3631156
