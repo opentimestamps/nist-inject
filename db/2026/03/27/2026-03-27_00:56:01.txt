@@ -1,0 +1,8 @@
+error code: 524
+  "name": "LTC.main",
+  "height": 3079203,
+  "hash": "23c4709c36fae65ea6328a9e37431ad11c337dd3511152d4c52b8cd771477d4b",
+  "name": "ETH.main",
+  "height": 24745463,
+  "hash": "f96fab710ce44604b4ec1e3850a6f62c8588eb59316615f06b8ab4d3866e9d0e",
+6a339723542d7ea69ac4f69771042a9f4e38de43e792ee8b53f5b71a8b7d88b6 3815168
