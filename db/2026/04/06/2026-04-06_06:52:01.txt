@@ -1,0 +1,8 @@
+error code: 522
+  "name": "LTC.main",
+  "height": 3085130,
+  "hash": "3d5a46ca722de053cc71f27692eda8b0a12f16e7f5d0e44ee7bbbd1febfde2d0",
+  "name": "ETH.main",
+  "height": 24818958,
+  "hash": "422b0a98106ec0c2216a4da4c9745ccc8b4a259107453994c476979a096569c0",
+48b6839798ac96bec246db219ed8da1435151ffff6e44adbdba84a6e043df6a5 3829916
