@@ -1,0 +1,8 @@
+error code: 525
+  "name": "LTC.main",
+  "height": 3093380,
+  "hash": "8a257e46e556c9e4a5c27e350acc29b82b9ac2bf270959fa117d2bdc20ff761d",
+  "name": "ETH.main",
+  "height": 24922906,
+  "hash": "1fc45ef4c124c58db606c7ae4d0eb9b23fedbac322cd1d14c8ebf230eeffb2a7",
+49a1f3e94fe7d7f51890232f048d9a679b0f08306311686a62ecef30cc66e9e2 3850769
