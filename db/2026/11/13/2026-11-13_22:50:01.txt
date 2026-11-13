@@ -1,0 +1,9 @@
+error code: 502
+
+  "name": "LTC.main",
+  "height": 3212621,
+  "hash": "39166cca81a8081fbe8e798537b7eba44d6b5d60c242a7505c51f4558d273734",
+  "name": "ETH.main",
+  "height": 26409150,
+  "hash": "11e8719f99b0bd332a0dafba28d61b9eea18c9a11f687dc6e1a866afa90c2d93",
+babec74ca98e03905f4a8b3f636d1ea704b6d1ebf6386b8fc2686f10d1c38fdd 4144013
