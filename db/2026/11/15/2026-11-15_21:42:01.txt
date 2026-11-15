@@ -1,0 +1,6 @@
+error code: 502
+
+  "name": "LTC.main",
+  "height": 3213800,
+  "hash": "09f9bb0a87eccd72af8212129aea8ac1ae7795e4f3b2b3e14d6f039e9975dcd0",
+c957a0478ac8f356ce8e4b78d0132e8295d8ecb6385fef1d777abc4fc305a8a1 4146824
