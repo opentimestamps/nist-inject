@@ -1,0 +1,6 @@
+error code: 502
+
+  "name": "ETH.main",
+  "height": 26422340,
+  "hash": "dae4f5e0096e76bcc3c6d4cbd4f447f4c02595329973724186d1c655909f9290",
+aa3d868086721fac76d9c376f382e78deaadc14a7f7fbb1fac1d647d682cbac0 4146658
